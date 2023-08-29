@@ -1,2 +1,2 @@
-# pratica-poo
-atividade utilizando (Programação orientada a Objetos)
+# PROGRAMAÇÃO ORIENTADO A OBJETOS
+- atividades utilizando programação orientado a objetos
